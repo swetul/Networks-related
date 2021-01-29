@@ -10,4 +10,4 @@ In this repository are some networking related mini projects
 
 ## 2. Aloha broadcast system (See simulations repository)
 
-## 3. Mulitcast Routing (See simulations repository)
+## 3. Multicast Routing (See simulations repository)
